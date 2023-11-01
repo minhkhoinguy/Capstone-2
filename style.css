@@ -24,7 +24,7 @@
   align-items: center;
   height: 30rem;
   color:#F3F0CA ;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Slabo 27px', serif;
   font-size: xx-large;
   
 
@@ -45,7 +45,7 @@
   color: #36639B;
 }
 .headLine {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Slabo 27px', serif;
   color: #004AAD;
 }
 .contact {
@@ -73,8 +73,8 @@ a {
   color: #D9D9D9;
 } 
 .btn {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Slabo 27px', serif;
 }
 .projectName {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Slabo 27px', serif;
 }
